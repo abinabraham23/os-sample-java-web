@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World with OpenShift -- Revised!</h2>
+<h2>Hello World with OpenShift -- revised again!</h2>
 </body>
 </html>
